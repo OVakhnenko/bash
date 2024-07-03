@@ -1,0 +1,5 @@
+[config]
+git config --global user.name "vakhnenzon"
+git config --global user.email "vakhnenzon@gmail.com"
+git config -l
+
